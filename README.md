@@ -36,21 +36,3 @@ npm run dev
 + 各个组件状态维护更加方便
 ### 添加上传头像功能
 + 暂时无法保存头像
-### 项目预览图
-<div align="left">
-<img src="http://www.00h5.com/vue-chinamobile-img/home.png" width="280" height="600">
-
-<img src="http://www.00h5.com/vue-chinamobile-img/server.png" width="280" height="600">
-
-<img src="http://www.00h5.com/vue-chinamobile-img/shop.png" width="280" height="600">
-
-<img src="http://www.00h5.com/vue-chinamobile-img/jf.png" width="280" height="600">
-
-<img src="http://www.00h5.com/vue-chinamobile-img/pay22.png" width="280" height="600">
-
-
-<img src="http://www.00h5.com/vue-chinamobile-img/pay333.png" width="280" height="600">
-
-
-</div>
-
